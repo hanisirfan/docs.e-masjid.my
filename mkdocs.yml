@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Bahan Rujukan - Sistem E-Masjid.My
+site_url: https://docs.e-masjid.my/
+theme:
+  name: material
+nav:
+  - Pengenalan: index.md
+  - Rumusan Sistem: index.md
