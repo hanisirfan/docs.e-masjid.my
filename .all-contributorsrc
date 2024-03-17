@@ -1,4 +1,21 @@
 {
   "projectName": "docs.e-masjid.my",
-  "projectOwner": "Dev4w4n"
+  "projectOwner": "hanisirfan",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "hanisirfan",
+      "name": "Muhammad Hanis Irfan Mohd Zaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
+      "profile": "https://www.hanisirfan.xyz",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
