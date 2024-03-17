@@ -10,7 +10,7 @@ Ia juga boleh digunakan untuk mendapatkan maklumat dari anak kariah.
 
 Berikut adalah contoh paparan web awam masjid.
 
-![Rumusan 1](assets/img/rumusan/rumusan1.png)
+![Rumusan 1](../assets/img/screenshots/rumusan1.png)
 
 ## Web AJK Masjid
 
@@ -18,4 +18,4 @@ Web AJK Masjid adalah digunakan oleh pihak masjid.
 
 Berikut adalah contoh paparan web AJK masjid.
 
-![Rumusan 2](assets/img/rumusan/rumusan2.png)
+![Rumusan 2](../assets/img/screenshots/rumusan2.png)

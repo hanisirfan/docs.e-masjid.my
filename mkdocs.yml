@@ -22,14 +22,12 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 theme:
   name: material
-  logo: assets/img/logo.png
-  favicon: assets/img/favicon.ico
+  logo: assets/img/misc/logo.png
+  favicon: assets/img/misc/favicon.ico
   icon:
     repo: fontawesome/brands/github-alt
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
@@ -39,6 +37,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
+    - navigation.instant
     - search.highlight
     - search.share
     - search.suggest

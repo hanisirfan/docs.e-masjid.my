@@ -10,7 +10,7 @@ Untuk mempelajari lebih lanjut tentang sistem E-Masjid.My, anda perlu memahami c
 
 Sekiranya anda menggunakan komputer, anda boleh menggunakan menu di sebelah kiri laman web ini, untuk pergi ke tutorial modul yang diingini.
 
-![Intro 1](assets/img/index/intro1.png)
+![Intro 1](assets/img/screenshots/intro1.png)
 
 ## Peranti mudah alih
 
@@ -18,4 +18,4 @@ Sekiranya anda menggunakan peranti mudah alih, laman web ini akan diperkecilkan 
 
 Untuk pergi ke tutorial yang diingini, anda boleh klik ke butang yang berada di sebelah atas kiri laman web ini.
 
-![Intro 2](assets/img/index/intro2.png)
+![Intro 2](assets/img/screenshots/intro2.png)
