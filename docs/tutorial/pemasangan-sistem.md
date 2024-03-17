@@ -1,3 +1,7 @@
+---
+icon: material/cloud-download
+---
+
 # Pemasangan Sistem
 
 Terdapat 2 kaedah untuk memasang sistem E-Masjid.My untuk masjid/surau anda.

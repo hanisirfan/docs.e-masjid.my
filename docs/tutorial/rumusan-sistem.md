@@ -1,3 +1,7 @@
+---
+icon: material/table
+---
+
 # Rumusan Sistem
 
 Sistem E-Masjid.My mengandungi dua komponen, iaitu Web Awam Masjid dan Web AJK Masjid.
