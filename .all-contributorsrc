@@ -9,15 +9,6 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
-      "login": "hanisirfan",
-      "name": "Muhammad Hanis Irfan Mohd Zaid",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
-      "profile": "https://www.hanisirfan.xyz",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "rohaizanr",
       "name": "izandotnet",
       "avatar_url": "https://avatars.githubusercontent.com/u/11247162?v=4",
@@ -27,6 +18,15 @@
         "code",
         "doc",
         "infra"
+      ]
+    },
+    {
+      "login": "hanisirfan",
+      "name": "Muhammad Hanis Irfan Mohd Zaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
+      "profile": "https://www.hanisirfan.xyz",
+      "contributions": [
+        "doc"
       ]
     }
   ]

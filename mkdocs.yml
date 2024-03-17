@@ -1,13 +1,13 @@
 site_name: Sistem E-Masjid.My
 site_url: https://docs.e-masjid.my/
-repo_url: https://github.com/Dev4w4n/e-masjid.my
-repo_name: Dev4w4n/e-masjid.my
+repo_url: https://github.com/Dev4w4n/docs.e-masjid.my
+repo_name: Dev4w4n/docs.e-masjid.my
 copyright: E-Masjid.my © 2023-2024
 extra:
   social:
-    - icon: material/text-box-search
-      link: https://github.com/Dev4w4n/docs.e-masjid.my
-      name: Sumber Dokumentasi
+    - icon: material/web
+      link: https://e-masjid.my/
+      name: Laman Web
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -31,6 +31,8 @@ theme:
     - announce.dismiss
     - content.code.annotate
     - content.code.copy
+    - content.action.edit
+    - content.action.view
     - content.tooltips
     - navigation.footer
     - navigation.indexes
@@ -66,3 +68,5 @@ theme:
 plugins:
   - glightbox
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
