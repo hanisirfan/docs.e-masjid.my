@@ -53,21 +53,3 @@ Kami mahu input anda! Kami ingin menjadikan penyumbangan kepada projek mudah dan
 - Ujian unit
   
 Atau anda ingin berbual dengan kami, cari kami di [Discord](https://discord.gg/k2zGpWTDpe).
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.hanisirfan.xyz"><img src="https://avatars.githubusercontent.com/u/66242389?v=4?s=100" width="100px;" alt="Muhammad Hanis Irfan Mohd Zaid"/><br /><sub><b>Muhammad Hanis Irfan Mohd Zaid</b></sub></a><br /><a href="#doc-hanisirfan" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->

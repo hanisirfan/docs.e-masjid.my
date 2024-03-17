@@ -2,7 +2,7 @@
   "projectName": "docs.e-masjid.my",
   "projectOwner": "hanisirfan",
   "files": [
-    "README.md"
+    "docs/contributors.md"
   ],
   "commitType": "docs",
   "commitConvention": "angular",
