@@ -19,6 +19,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rohaizanr",
+      "name": "izandotnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11247162?v=4",
+      "profile": "https://github.com/rohaizanr",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
