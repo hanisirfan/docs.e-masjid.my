@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AimanFariz"><img src="https://avatars.githubusercontent.com/u/99475959?v=4?s=100" width="100px;" alt="Aiman Fariz"/><br /><sub><b>Aiman Fariz</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=AimanFariz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://drmsr.dev/"><img src="https://avatars.githubusercontent.com/u/132215307?v=4?s=100" width="100px;" alt="Syamirul"/><br /><sub><b>Syamirul</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=dr-msr" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fairul82"><img src="https://avatars.githubusercontent.com/u/970727?v=4?s=100" width="100px;" alt="Fairul"/><br /><sub><b>Fairul</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=fairul82" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/araf-dev"><img src="https://avatars.githubusercontent.com/u/155940066?v=4?s=100" width="100px;" alt="araf-dev"/><br /><sub><b>araf-dev</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=araf-dev" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
