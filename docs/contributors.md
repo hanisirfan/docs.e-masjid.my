@@ -13,6 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.hanisirfan.xyz/"><img src="https://avatars.githubusercontent.com/u/66242389?v=4?s=100" width="100px;" alt="Muhammad Hanis Irfan Mohd Zaid"/><br /><sub><b>Muhammad Hanis Irfan Mohd Zaid</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=hanisirfan" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nikanas"><img src="https://avatars.githubusercontent.com/u/4980209?v=4?s=100" width="100px;" alt="Nik M. Anas"/><br /><sub><b>Nik M. Anas</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=nikanas" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fazreil"><img src="https://avatars.githubusercontent.com/u/797137?v=4?s=100" width="100px;" alt="Fazreil Amreen"/><br /><sub><b>Fazreil Amreen</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=fazreil" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://erosanwar.tripod.com/"><img src="https://avatars.githubusercontent.com/u/6248592?v=4?s=100" width="100px;" alt="Eros Anwar"/><br /><sub><b>Eros Anwar</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=erosanwar" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
