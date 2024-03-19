@@ -12,6 +12,16 @@
   "commitConvention": "atom",
   "contributors": [
     {
+      "login": "rohaizanr",
+      "name": "Rohaizan bin Roosley",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/izan.webp",
+      "profile": "https://github.com/rohaizanr",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
       "login": "hanisirfan",
       "name": "Muhammad Hanis Irfan Mohd Zaid",
       "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
@@ -21,13 +31,12 @@
       ]
     },
     {
-      "login": "rohaizanr",
-      "name": "izandotnet",
-      "avatar_url": "https://avatars.githubusercontent.com/u/11247162?v=4",
-      "profile": "https://github.com/rohaizanr",
+      "login": "nikanas",
+      "name": "Nik M. Anas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4980209?v=4",
+      "profile": "https://github.com/nikanas",
       "contributions": [
-        "code",
-        "doc"
+        "code"
       ]
     }
   ],
