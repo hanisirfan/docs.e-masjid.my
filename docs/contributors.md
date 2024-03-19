@@ -17,6 +17,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jebatco"><img src="https://avatars.githubusercontent.com/u/6611845?v=4?s=100" width="100px;" alt="jebatco"/><br /><sub><b>jebatco</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=jebatco" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lurhays"><img src="https://avatars.githubusercontent.com/u/5729687?v=4?s=100" width="100px;" alt="Syahrul Hakimah Ong"/><br /><sub><b>Syahrul Hakimah Ong</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=lurhays" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pojicode"><img src="https://avatars.githubusercontent.com/u/28385045?v=4?s=100" width="100px;" alt="poji"/><br /><sub><b>poji</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=pojicode" title="Code">💻</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
