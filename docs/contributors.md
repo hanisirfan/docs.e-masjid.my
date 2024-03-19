@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/araf-dev"><img src="https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/arafat.webp?s=100" width="100px;" alt="Mohamad Arafat"/><br /><sub><b>Mohamad Arafat</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=araf-dev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wanahmadzainie"><img src="https://avatars.githubusercontent.com/u/4995941?v=4?s=100" width="100px;" alt="Wan Ahmad Zainie"/><br /><sub><b>Wan Ahmad Zainie</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=wanahmadzainie" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.hanisirfan.xyz/"><img src="https://avatars.githubusercontent.com/u/66242389?v=4?s=100" width="100px;" alt="Hanis Irfan"/><br /><sub><b>Hanis Irfan</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=hanisirfan" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.kflegacyresources.com/"><img src="https://avatars.githubusercontent.com/u/33825287?v=4?s=100" width="100px;" alt="Faizan Rahman"/><br /><sub><b>Faizan Rahman</b></sub></a><br /><a href="#content-mfar1984" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
