@@ -19,6 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pojicode"><img src="https://avatars.githubusercontent.com/u/28385045?v=4?s=100" width="100px;" alt="poji"/><br /><sub><b>poji</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=pojicode" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AimanFariz"><img src="https://avatars.githubusercontent.com/u/99475959?v=4?s=100" width="100px;" alt="Aiman Fariz"/><br /><sub><b>Aiman Fariz</b></sub></a><br /><a href="https://github.com/Dev4w4n/docs.e-masjid.my/commits?author=AimanFariz" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
