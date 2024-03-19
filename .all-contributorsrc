@@ -92,6 +92,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dr-msr",
+      "name": "Syamirul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132215307?v=4",
+      "profile": "https://drmsr.dev/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
