@@ -20,7 +20,9 @@
         "code",
         "doc",
         "financial",
-        "infra"
+        "infra",
+        "design",
+        "mentoring"
       ]
     },
     {
@@ -39,7 +41,7 @@
       "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/fazreil.webp",
       "profile": "https://github.com/fazreil",
       "contributions": [
-        "code"
+        "infra"
       ]
     },
     {
@@ -57,7 +59,8 @@
       "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/zul.webp",
       "profile": "https://github.com/jebatco",
       "contributions": [
-        "code"
+        "code",
+        "ideas"
       ]
     },
     {
@@ -84,7 +87,8 @@
       "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/aiman.webp",
       "profile": "https://github.com/AimanFariz",
       "contributions": [
-        "code"
+        "code",
+        "design"
       ]
     },
     {
@@ -111,7 +115,7 @@
       "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/arafat.webp",
       "profile": "https://github.com/araf-dev",
       "contributions": [
-        "code"
+        "bug"
       ]
     },
     {
@@ -120,7 +124,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/4995941?v=4",
       "profile": "https://github.com/wanahmadzainie",
       "contributions": [
-        "code"
+        "bug"
       ]
     },
     {
@@ -138,7 +142,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/33825287?v=4",
       "profile": "https://www.kflegacyresources.com/",
       "contributions": [
-        "content"
+        "content",
+        "promotion",
+        "ideas"
       ]
     }
   ],
