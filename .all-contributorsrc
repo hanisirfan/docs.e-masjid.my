@@ -13,7 +13,7 @@
   "contributors": [
     {
       "login": "rohaizanr",
-      "name": "Rohaizan bin Roosley",
+      "name": "Rohaizan Roosley",
       "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/izan.webp",
       "profile": "https://github.com/rohaizanr",
       "contributions": [
@@ -22,18 +22,9 @@
       ]
     },
     {
-      "login": "hanisirfan",
-      "name": "Muhammad Hanis Irfan Mohd Zaid",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
-      "profile": "https://www.hanisirfan.xyz/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "nikanas",
-      "name": "Nik M. Anas",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4980209?v=4",
+      "name": "Nik Mohamad Anas",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/anas.webp",
       "profile": "https://github.com/nikanas",
       "contributions": [
         "code"
@@ -41,8 +32,8 @@
     },
     {
       "login": "fazreil",
-      "name": "Fazreil Amreen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/797137?v=4",
+      "name": "Ts. Fazreil Amreen Abdul Jalil",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/fazreil.webp",
       "profile": "https://github.com/fazreil",
       "contributions": [
         "code"
@@ -50,8 +41,8 @@
     },
     {
       "login": "erosanwar",
-      "name": "Eros Anwar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6248592?v=4",
+      "name": "Muhammad Fairuz Anwar",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/eros.webp",
       "profile": "http://erosanwar.tripod.com/",
       "contributions": [
         "code"
@@ -59,8 +50,8 @@
     },
     {
       "login": "jebatco",
-      "name": "jebatco",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6611845?v=4",
+      "name": "Zulkarnain Jahidi",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/zul.webp",
       "profile": "https://github.com/jebatco",
       "contributions": [
         "code"
@@ -69,7 +60,7 @@
     {
       "login": "lurhays",
       "name": "Syahrul Hakimah Ong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5729687?v=4",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/kim.webp",
       "profile": "https://github.com/lurhays",
       "contributions": [
         "code"
@@ -77,8 +68,8 @@
     },
     {
       "login": "pojicode",
-      "name": "poji",
-      "avatar_url": "https://avatars.githubusercontent.com/u/28385045?v=4",
+      "name": "Fauzi Ibrahim",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/poji.webp",
       "profile": "https://github.com/pojicode",
       "contributions": [
         "code"
@@ -86,8 +77,8 @@
     },
     {
       "login": "AimanFariz",
-      "name": "Aiman Fariz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/99475959?v=4",
+      "name": "Aiman Fariz Zaqwan",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/aiman.webp",
       "profile": "https://github.com/AimanFariz",
       "contributions": [
         "code"
@@ -95,7 +86,7 @@
     },
     {
       "login": "dr-msr",
-      "name": "Syamirul",
+      "name": "Dr. Mohd Syamirulah Rahim",
       "avatar_url": "https://avatars.githubusercontent.com/u/132215307?v=4",
       "profile": "https://drmsr.dev/",
       "contributions": [
@@ -104,8 +95,8 @@
     },
     {
       "login": "fairul82",
-      "name": "Fairul",
-      "avatar_url": "https://avatars.githubusercontent.com/u/970727?v=4",
+      "name": "Fairul Rizal Bin Fahrurazi",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/fairul.webp",
       "profile": "https://github.com/fairul82",
       "contributions": [
         "code"
@@ -113,8 +104,8 @@
     },
     {
       "login": "araf-dev",
-      "name": "araf-dev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/155940066?v=4",
+      "name": "Mohamad Arafat",
+      "avatar_url": "https://raw.githubusercontent.com/hanisirfan/docs.e-masjid.my/main/docs/assets/img/misc/contributors/arafat.webp",
       "profile": "https://github.com/araf-dev",
       "contributions": [
         "code"
@@ -122,13 +113,23 @@
     },
     {
       "login": "wanahmadzainie",
-      "name": "wanahmadzainie",
+      "name": "Wan Ahmad Zainie",
       "avatar_url": "https://avatars.githubusercontent.com/u/4995941?v=4",
       "profile": "https://github.com/wanahmadzainie",
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "hanisirfan",
+      "name": "Hanis Irfan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
+      "profile": "https://www.hanisirfan.xyz/",
+      "contributions": [
+        "doc"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
